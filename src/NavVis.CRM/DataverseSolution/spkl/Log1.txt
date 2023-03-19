@@ -1,0 +1,237 @@
+7:38:29 AM	Deploying WebResources
+7:38:29 AM	Using Config 'C:\repo\NavVis.CRM\DataverseSolution'
+7:40:19 AM	Deploying WebResources
+7:40:19 AM	Using Config 'C:\repo\NavVis.CRM\DataverseSolution'
+7:41:17 AM	Deploying WebResources
+7:41:17 AM	Using Config 'C:\repo\NavVis.CRM\DataverseSolution'
+7:41:17 AM	Creating Webresource 'C:/repo/NavVis.CRM/NavVis.CRM.WebResources/dist/clienthooks.js' -> 'navvis_/js/clienthooks.js'
+7:41:24 AM	Adding to solution 'codechallenge'
+7:41:27 AM	Deployed 1 webresource(s)
+7:41:27 AM	Publishing 1 webresources...
+7:41:39 AM	Publish complete.
+7:41:39 AM	Processed 1 section(s)
+7:41:39 AM	Processed 1 config(s)
+8:01:24 AM	Deploying WebResources
+8:01:24 AM	Using Config 'C:\repo\NavVis.CRM\DataverseSolution'
+8:01:24 AM	Updating Webresource 'C:/repo/NavVis.CRM/NavVis.CRM.WebResources/dist/clienthooks.js' -> 'navvis_/js/clienthooks.js'
+8:01:27 AM	Adding to solution 'codechallenge'
+8:01:28 AM	Deployed 1 webresource(s)
+8:01:28 AM	Publishing 1 webresources...
+8:02:18 AM	Publish complete.
+8:02:18 AM	Processed 1 section(s)
+8:02:18 AM	Processed 1 config(s)
+8:51:36 AM	Deploying WebResources
+8:51:36 AM	Using Config 'C:\repo\NavVis.CRM\DataverseSolution'
+8:51:36 AM	Updating Webresource 'C:/repo/NavVis.CRM/NavVis.CRM.WebResources/dist/clienthooks.js' -> 'navvis_/js/clienthooks.js'
+8:51:41 AM	Adding to solution 'codechallenge'
+8:51:42 AM	Deployed 1 webresource(s)
+8:51:42 AM	Publishing 1 webresources...
+8:51:55 AM	Publish complete.
+8:51:55 AM	Processed 1 section(s)
+8:51:55 AM	Processed 1 config(s)
+8:54:27 AM	Deploying WebResources
+8:54:27 AM	Using Config 'C:\repo\NavVis.CRM\DataverseSolution'
+8:54:27 AM	Updating Webresource 'C:/repo/NavVis.CRM/NavVis.CRM.WebResources/dist/clienthooks.js' -> 'navvis_/js/clienthooks.js'
+8:54:31 AM	Adding to solution 'codechallenge'
+8:54:31 AM	Deployed 1 webresource(s)
+8:54:31 AM	Publishing 1 webresources...
+8:54:37 AM	Publish complete.
+8:54:37 AM	Processed 1 section(s)
+8:54:37 AM	Processed 1 config(s)
+8:58:13 AM	Deploying WebResources
+8:58:13 AM	Using Config 'C:\repo\NavVis.CRM\DataverseSolution'
+8:58:14 AM	Updating Webresource 'C:/repo/NavVis.CRM/NavVis.CRM.WebResources/dist/clienthooks.js' -> 'navvis_/js/clienthooks.js'
+8:58:16 AM	Adding to solution 'codechallenge'
+8:58:16 AM	Deployed 1 webresource(s)
+8:58:16 AM	Publishing 1 webresources...
+8:58:22 AM	Publish complete.
+8:58:22 AM	Processed 1 section(s)
+8:58:22 AM	Processed 1 config(s)
+9:08:48 AM	Deploying WebResources
+9:08:49 AM	Using Config 'C:\repo\NavVis.CRM\DataverseSolution'
+9:08:49 AM	Updating Webresource 'C:/repo/NavVis.CRM/NavVis.CRM.WebResources/dist/clienthooks.js' -> 'navvis_/js/clienthooks.js'
+9:08:51 AM	Adding to solution 'codechallenge'
+9:08:51 AM	Deployed 1 webresource(s)
+9:08:51 AM	Publishing 1 webresources...
+9:08:57 AM	Publish complete.
+9:08:57 AM	Processed 1 section(s)
+9:08:57 AM	Processed 1 config(s)
+9:13:24 AM	Deploying WebResources
+9:13:24 AM	Using Config 'C:\repo\NavVis.CRM\DataverseSolution'
+9:13:24 AM	Updating Webresource 'C:/repo/NavVis.CRM/NavVis.CRM.WebResources/dist/clienthooks.js' -> 'navvis_/js/clienthooks.js'
+9:13:27 AM	Adding to solution 'codechallenge'
+9:13:27 AM	Deployed 1 webresource(s)
+9:13:27 AM	Publishing 1 webresources...
+9:13:33 AM	Publish complete.
+9:13:33 AM	Processed 1 section(s)
+9:13:33 AM	Processed 1 config(s)
+9:14:50 AM	Deploying WebResources
+9:14:50 AM	Using Config 'C:\repo\NavVis.CRM\DataverseSolution'
+9:14:50 AM	Updating Webresource 'C:/repo/NavVis.CRM/NavVis.CRM.WebResources/dist/clienthooks.js' -> 'navvis_/js/clienthooks.js'
+9:14:53 AM	Adding to solution 'codechallenge'
+9:14:54 AM	Deployed 1 webresource(s)
+9:14:54 AM	Publishing 1 webresources...
+9:14:59 AM	Publish complete.
+9:14:59 AM	Processed 1 section(s)
+9:14:59 AM	Processed 1 config(s)
+9:17:09 AM	Deploying WebResources
+9:17:09 AM	Using Config 'C:\repo\NavVis.CRM\DataverseSolution'
+9:17:09 AM	Updating Webresource 'C:/repo/NavVis.CRM/NavVis.CRM.WebResources/dist/clienthooks.js' -> 'navvis_/js/clienthooks.js'
+9:17:11 AM	Adding to solution 'codechallenge'
+9:17:12 AM	Deployed 1 webresource(s)
+9:17:12 AM	Publishing 1 webresources...
+9:17:16 AM	Publish complete.
+9:17:16 AM	Processed 1 section(s)
+9:17:16 AM	Processed 1 config(s)
+9:20:50 AM	Deploying WebResources
+9:20:50 AM	Using Config 'C:\repo\NavVis.CRM\DataverseSolution'
+9:20:50 AM	Updating Webresource 'C:/repo/NavVis.CRM/NavVis.CRM.WebResources/dist/clienthooks.js' -> 'navvis_/js/clienthooks.js'
+9:20:52 AM	Adding to solution 'codechallenge'
+9:20:52 AM	Deployed 1 webresource(s)
+9:20:52 AM	Publishing 1 webresources...
+9:20:56 AM	Publish complete.
+9:20:56 AM	Processed 1 section(s)
+9:20:56 AM	Processed 1 config(s)
+9:23:37 AM	Deploying WebResources
+9:23:37 AM	Using Config 'C:\repo\NavVis.CRM\DataverseSolution'
+9:23:37 AM	Updating Webresource 'C:/repo/NavVis.CRM/NavVis.CRM.WebResources/dist/clienthooks.js' -> 'navvis_/js/clienthooks.js'
+9:23:39 AM	Adding to solution 'codechallenge'
+9:23:39 AM	Deployed 1 webresource(s)
+9:23:39 AM	Publishing 1 webresources...
+9:23:43 AM	Publish complete.
+9:23:43 AM	Processed 1 section(s)
+9:23:43 AM	Processed 1 config(s)
+9:33:19 AM	Deploying WebResources
+9:33:19 AM	Using Config 'C:\repo\NavVis.CRM\DataverseSolution'
+9:33:19 AM	Updating Webresource 'C:/repo/NavVis.CRM/NavVis.CRM.WebResources/dist/clienthooks.js' -> 'navvis_/js/clienthooks.js'
+9:33:21 AM	Adding to solution 'codechallenge'
+9:33:22 AM	Deployed 1 webresource(s)
+9:33:22 AM	Publishing 1 webresources...
+9:33:26 AM	Publish complete.
+9:33:26 AM	Processed 1 section(s)
+9:33:26 AM	Processed 1 config(s)
+9:37:29 AM	Deploying WebResources
+9:37:29 AM	Using Config 'C:\repo\NavVis.CRM\DataverseSolution'
+9:37:29 AM	Updating Webresource 'C:/repo/NavVis.CRM/NavVis.CRM.WebResources/dist/clienthooks.js' -> 'navvis_/js/clienthooks.js'
+9:37:31 AM	Adding to solution 'codechallenge'
+9:37:32 AM	Deployed 1 webresource(s)
+9:37:32 AM	Publishing 1 webresources...
+9:37:38 AM	Publish complete.
+9:37:38 AM	Processed 1 section(s)
+9:37:38 AM	Processed 1 config(s)
+9:50:44 AM	Deploying WebResources
+9:50:44 AM	Using Config 'C:\repo\NavVis.CRM\DataverseSolution'
+9:50:45 AM	Updating Webresource 'C:/repo/NavVis.CRM/NavVis.CRM.WebResources/dist/clienthooks.js' -> 'navvis_/js/clienthooks.js'
+9:50:47 AM	Adding to solution 'codechallenge'
+9:50:47 AM	Deployed 1 webresource(s)
+9:50:47 AM	Publishing 1 webresources...
+9:50:50 AM	Publish complete.
+9:50:50 AM	Processed 1 section(s)
+9:50:50 AM	Processed 1 config(s)
+9:54:20 AM	Deploying WebResources
+9:54:20 AM	Using Config 'C:\repo\NavVis.CRM\DataverseSolution'
+9:54:20 AM	Updating Webresource 'C:/repo/NavVis.CRM/NavVis.CRM.WebResources/dist/clienthooks.js' -> 'navvis_/js/clienthooks.js'
+9:54:23 AM	Adding to solution 'codechallenge'
+9:54:23 AM	Deployed 1 webresource(s)
+9:54:23 AM	Publishing 1 webresources...
+9:54:27 AM	Publish complete.
+9:54:27 AM	Processed 1 section(s)
+9:54:27 AM	Processed 1 config(s)
+10:01:24 AM	Deploying WebResources
+10:01:24 AM	Using Config 'C:\repo\NavVis.CRM\DataverseSolution'
+10:01:25 AM	Updating Webresource 'C:/repo/NavVis.CRM/NavVis.CRM.WebResources/dist/clienthooks.js' -> 'navvis_/js/clienthooks.js'
+10:01:30 AM	Adding to solution 'codechallenge'
+10:01:31 AM	Deployed 1 webresource(s)
+10:01:31 AM	Publishing 1 webresources...
+10:01:50 AM	Publish complete.
+10:01:50 AM	Processed 1 section(s)
+10:01:50 AM	Processed 1 config(s)
+10:04:40 AM	Deploying WebResources
+10:04:40 AM	Using Config 'C:\repo\NavVis.CRM\DataverseSolution'
+10:04:41 AM	Updating Webresource 'C:/repo/NavVis.CRM/NavVis.CRM.WebResources/dist/clienthooks.js' -> 'navvis_/js/clienthooks.js'
+10:04:46 AM	Adding to solution 'codechallenge'
+10:04:47 AM	Deployed 1 webresource(s)
+10:04:47 AM	Publishing 1 webresources...
+10:04:53 AM	Publish complete.
+10:04:53 AM	Processed 1 section(s)
+10:04:53 AM	Processed 1 config(s)
+10:06:25 AM	Deploying WebResources
+10:06:25 AM	Using Config 'C:\repo\NavVis.CRM\DataverseSolution'
+10:06:26 AM	Updating Webresource 'C:/repo/NavVis.CRM/NavVis.CRM.WebResources/dist/clienthooks.js' -> 'navvis_/js/clienthooks.js'
+10:06:27 AM	Adding to solution 'codechallenge'
+10:06:27 AM	Deployed 1 webresource(s)
+10:06:27 AM	Publishing 1 webresources...
+10:06:30 AM	Publish complete.
+10:06:30 AM	Processed 1 section(s)
+10:06:30 AM	Processed 1 config(s)
+10:10:30 AM	Deploying WebResources
+10:10:30 AM	Using Config 'C:\repo\NavVis.CRM\DataverseSolution'
+10:10:30 AM	Updating Webresource 'C:/repo/NavVis.CRM/NavVis.CRM.WebResources/dist/clienthooks.js' -> 'navvis_/js/clienthooks.js'
+10:10:34 AM	Adding to solution 'codechallenge'
+10:10:34 AM	Deployed 1 webresource(s)
+10:10:34 AM	Publishing 1 webresources...
+10:10:46 AM	Publish complete.
+10:10:46 AM	Processed 1 section(s)
+10:10:46 AM	Processed 1 config(s)
+10:47:35 AM	Deploying WebResources
+10:47:35 AM	Using Config 'C:\repo\NavVis.CRM\DataverseSolution'
+10:47:36 AM	Updating Webresource 'C:/repo/NavVis.CRM/NavVis.CRM.WebResources/dist/clienthooks.js' -> 'navvis_/js/clienthooks.js'
+10:47:47 AM	Adding to solution 'codechallenge'
+10:47:50 AM	Deployed 1 webresource(s)
+10:47:50 AM	Publishing 1 webresources...
+10:48:14 AM	Publish complete.
+10:48:14 AM	Processed 1 section(s)
+10:48:14 AM	Processed 1 config(s)
+10:53:00 AM	Deploying WebResources
+10:53:00 AM	Using Config 'C:\repo\NavVis.CRM\DataverseSolution'
+10:53:01 AM	Updating Webresource 'C:/repo/NavVis.CRM/NavVis.CRM.WebResources/dist/clienthooks.js' -> 'navvis_/js/clienthooks.js'
+10:53:03 AM	Adding to solution 'codechallenge'
+10:53:04 AM	Deployed 1 webresource(s)
+10:53:04 AM	Publishing 1 webresources...
+10:53:10 AM	Publish complete.
+10:53:10 AM	Processed 1 section(s)
+10:53:10 AM	Processed 1 config(s)
+10:56:52 AM	Deploying WebResources
+10:56:52 AM	Using Config 'C:\repo\NavVis.CRM\DataverseSolution'
+10:56:52 AM	Updating Webresource 'C:/repo/NavVis.CRM/NavVis.CRM.WebResources/dist/clienthooks.js' -> 'navvis_/js/clienthooks.js'
+10:56:53 AM	Adding to solution 'codechallenge'
+10:56:54 AM	Deployed 1 webresource(s)
+10:56:54 AM	Publishing 1 webresources...
+10:56:58 AM	Publish complete.
+10:56:58 AM	Processed 1 section(s)
+10:56:58 AM	Processed 1 config(s)
+10:58:45 AM	Deploying WebResources
+10:58:45 AM	Using Config 'C:\repo\NavVis.CRM\DataverseSolution'
+10:58:45 AM	navvis_/js/clienthooks.js has not changed, skipping...
+10:58:45 AM	Deployed 0 webresource(s)
+10:58:45 AM	Publishing 0 webresources...
+10:58:45 AM	Publish complete.
+10:58:45 AM	Processed 1 section(s)
+10:58:45 AM	Processed 1 config(s)
+11:03:36 AM	Deploying WebResources
+11:03:36 AM	Using Config 'C:\repo\NavVis.CRM\DataverseSolution'
+11:03:37 AM	Updating Webresource 'C:/repo/NavVis.CRM/NavVis.CRM.WebResources/dist/clienthooks.js' -> 'navvis_/js/clienthooks.js'
+11:03:41 AM	Adding to solution 'codechallenge'
+11:03:42 AM	Deployed 1 webresource(s)
+11:03:42 AM	Publishing 1 webresources...
+11:03:48 AM	Publish complete.
+11:03:48 AM	Processed 1 section(s)
+11:03:48 AM	Processed 1 config(s)
+11:10:10 AM	Deploying WebResources
+11:10:10 AM	Using Config 'C:\repo\NavVis.CRM\DataverseSolution'
+11:10:10 AM	Updating Webresource 'C:/repo/NavVis.CRM/NavVis.CRM.WebResources/dist/clienthooks.js' -> 'navvis_/js/clienthooks.js'
+11:10:12 AM	Adding to solution 'codechallenge'
+11:10:14 AM	Deployed 1 webresource(s)
+11:10:14 AM	Publishing 1 webresources...
+11:10:24 AM	Publish complete.
+11:10:24 AM	Processed 1 section(s)
+11:10:24 AM	Processed 1 config(s)
+11:10:46 AM	Deploying WebResources
+11:10:46 AM	Using Config 'C:\repo\NavVis.CRM\DataverseSolution'
+11:10:46 AM	Updating Webresource 'C:/repo/NavVis.CRM/NavVis.CRM.WebResources/dist/clienthooks.js' -> 'navvis_/js/clienthooks.js'
+11:10:48 AM	Adding to solution 'codechallenge'
+11:10:48 AM	Deployed 1 webresource(s)
+11:10:48 AM	Publishing 1 webresources...
+11:10:52 AM	Publish complete.
+11:10:52 AM	Processed 1 section(s)
+11:10:52 AM	Processed 1 config(s)

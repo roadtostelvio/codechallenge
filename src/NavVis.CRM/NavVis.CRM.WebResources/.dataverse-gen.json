@@ -1,0 +1,11 @@
+{
+  "entities": [
+    "navvis_delivery",
+    "navvis_deliveryproduct"
+  ],
+  "actions": [],
+  "functions": [],
+  "output": {
+    "outputRoot": "./src/dataverse-gen"
+  }
+}
